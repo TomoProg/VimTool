@@ -9,4 +9,5 @@ set noswapfile
 set nowrap
 set list
 set listchars=tab:>.,trail:_,extends:>,precedes:<,nbsp:%
+set undofile
 filetype plugin indent on
